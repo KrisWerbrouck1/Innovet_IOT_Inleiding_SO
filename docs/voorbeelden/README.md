@@ -45,4 +45,6 @@
 ![Oplossing Savaco](./assets/iot-in-de-praktijk-webinarreeks-nl.png)
 *[Vlaamse leverancier IOT oplossingen Savaco](https://www.savaco.com/nl/events/detail/iot-in-de-praktijk-webinarreeks)
 
-
+## CO2 sensoren
+![CO2 sensor van controlco2.space](./assets/CO2.jpg)
+*[Website en montagehandleiding voor het onderwijs](https://controlco2.space/)

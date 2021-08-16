@@ -12,6 +12,7 @@ Enkele voorbeelden zijn:
 * Detectie hoeveelheid vuilnis in een openbare vuilbak, glasbak ...
 * Gebruikstijd, productie … van machines en toestellen registeren en analyseren.
 * Domotica-systemen.
+* CO2 meting en monitoring.
 * …
 
 
