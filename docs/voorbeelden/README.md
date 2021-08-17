@@ -53,4 +53,4 @@
 
 ## Toepassingen in haven van Antwerpen
 
-[![Toepassingen in haven van Antwerpen](https://www.youtube.com/watch?v=09KxrJQde_Q/0.jpg)] (https://www.youtube.com/watch?v=09KxrJQde_Q)
+[![Toepassingen in haven van Antwerpen](https://www.youtube.com/vi/09KxrJQde_Q/0.jpg)] (https://www.youtube.com/watch?v=09KxrJQde_Q)
